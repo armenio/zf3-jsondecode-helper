@@ -7,7 +7,7 @@
 		"helper",
 		"json",
 		"decode",
-		"zf2",
+		"zf3",
 		"armenio"
 	],
 	"homepage": "https://github.com/armenio/zf3-jsondecode-helper",
