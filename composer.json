@@ -1,0 +1,29 @@
+{
+	"name": "armenio/zf3-jsondecode-helper",
+	"description": "Json Decode Helper for Zend Framework 3",
+	"type": "library",
+	"keywords": [
+		"view",
+		"helper",
+		"json",
+		"decode",
+		"zf2",
+		"armenio"
+	],
+	"homepage": "https://github.com/armenio/zf3-jsondecode-helper",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Rafael Armênio",
+			"email": "rafael.armenio@gmail.com"
+		}
+	],
+	"require": {
+		"zendframework/zend-json": "^3.0"
+	},
+    "autoload": {
+        "psr-4": {
+            "Armenio\\JsonDecodeHelper\\": "src/"
+        }
+    }
+}
